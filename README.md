@@ -3,7 +3,7 @@
 ## Executive Summary
 
 ### Contents:
-- [Useful Links](#Useful Links)
+- [Useful Links](#Useful-Links)
 - [Recommendations](#Recommendations)
 - [Conclusions](#Conclusions)
 
