@@ -8,7 +8,7 @@
 - [Conclusions](#Conclusions)
 
 ## Useful Links
-Link to data documentation: http://jse.amstat.org/v19n3/decock/DataDocumentation.txt
+Link to data documentation: http://jse.amstat.org/v19n3/decock/DataDocumentation.txt<br>
 Link to Kaggle Regression Challenge: https://www.kaggle.com/c/dsi-us-6-project-2-regression-challenge
 
 
